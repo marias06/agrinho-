@@ -23,7 +23,7 @@ h1#principal{
 h2
 {
     font-size: 30px;
-    color: black;
+    color: rgb(30, 185, 30);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -32,18 +32,6 @@ img{
 }
 a{
     text-decoration: none;
-    color: rgb(51, 38, 124);
-}
-
-
-.arquivos {
-    color: rgb(0, 162, 255);
-}
-
-.pdf {
-    color: rgb(255, 0, 242);
-}
-
-.publicarsite {
-    color: rgb(32, 184, 1);
+    color: rgb(95, 189, 76);
+    font-size: 30px;
 }
